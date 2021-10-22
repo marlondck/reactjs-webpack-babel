@@ -1,0 +1,25 @@
+*  {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%; 
+}
+
+body {
+  background: #282a36;
+  color: #fff;
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.6em;
+  -webkit-font-smoothing: antialiased; /** qualidade retina */
+  scroll-behavior: smooth; /** scroll suave */
+}
+
+button {
+  border: 0;
+  background-color: rgb(4, 202, 20);
+  color: #fff;
+  padding: 1rem 3rem;
+}

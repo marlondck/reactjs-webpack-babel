@@ -1,4 +1,7 @@
 import React, { useState } from "react";
+import './App.css';
+import img from './assets/dana-ward-b8FGRN-t34M-unsplash.jpg';
+
 import Header from './components/Header';
 
 function App() {
@@ -17,6 +20,10 @@ function App() {
           return <li key={project}>{project}</li>
         }) }
       </ul>
+
+      <br />
+
+        <img src={img} width="120" />
 
       <br />
 
