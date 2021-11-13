@@ -1,5 +1,5 @@
 ## Babel é um transpilador 
-## Webpack é um enpacotador 
+## Webpack é um empacotador 
 
 
 
